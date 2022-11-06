@@ -1,0 +1,12 @@
+adlfs
+cf-xarray
+cftime
+intake-xarray
+planetary-computer
+pystac
+pystac-client
+xarray
+xarray-sentinel
+xarray-spatial
+xarrayutils
+zarr
